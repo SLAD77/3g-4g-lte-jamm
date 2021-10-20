@@ -1,0 +1,2 @@
+# 3g-4g-lte-jamm
+Hi, I need a lot of help, can someone build a 3g / 4g Lte Deauther ?? I've been looking for a device that can cut the 4g connection remotely for a while and I can't find anything, is there at least something like that? let's take an example, I am 20 meters away from a group of people and I want to cut their internet (4gLte) instantly for 10-15 seconds. thanks and sorry for the wrong english. If anyone can make a device
